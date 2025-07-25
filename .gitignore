@@ -4,3 +4,7 @@ uploads
 client/node_modules
 dist
 server/node_modules
+
+server/uploads/
+server/python/__pycache__/
+server/python/venv/
